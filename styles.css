@@ -12,13 +12,14 @@ body{
     background-color: black;
     font-family: 'Open Sans';
 }
+    
 .keys {
     min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    flex: 1;
 }
+    
 
 .key {
     color: white;
