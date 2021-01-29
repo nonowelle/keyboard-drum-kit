@@ -1,5 +1,7 @@
 # Vanilla JS Keyboard Drumkit
-## overview
+<img src="Keyboard-Drum-Kit.png"/>
+
+## Overview
 Keyboard drum kit based on the Javascript30 course
 In this project, I learned how to use key events and data attributes.
 
