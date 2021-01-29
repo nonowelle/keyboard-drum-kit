@@ -1,4 +1,4 @@
-# Vanilla JS Keyboard Drumkit
+# Vanilla JS Keyboard Drum Kit
 <img src="Keyboard-Drum-Kit.png"/>
 
 ## Overview
